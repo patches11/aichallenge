@@ -15,7 +15,7 @@ sources = [
         "coffeescript.tgz"),
     ("http://ftp.digitalmars.com/dmd_2.054-0_amd64.deb",
         "dmd.deb"),
-    ("https://launchpad.net/~gophers/+archive/go/+files/golang_60.1-0%7E9753%7Enatty1_amd64.deb",
+    ("https://launchpad.net/~gophers/+archive/go/+files/golang_60.3-0~10088~natty1_amd64.deb",
         "golang.deb"),
     ("http://dist.groovy.codehaus.org/distributions/installers/deb/groovy_1.7.8-1_all.deb",
         "groovy.deb"),
